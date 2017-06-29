@@ -26,5 +26,5 @@ $conn->send('topic://'.'pc', $msgCpu);
 $conn->disconnect();           
   
 echo 'MQTT Message to ' . '860173018344139' . ' sent: ' . '测试通知';   
-  
+/////// 
 ?> 
